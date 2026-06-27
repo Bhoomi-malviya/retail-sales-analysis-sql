@@ -632,15 +632,14 @@ Through this project, I gained practical experience in:
 
 # Author
 
-**Aditya Kumar Tiwari**
+Bhoomi Malviya
+Software Engineer with an interest in SQL, Database Management, and Business Problem Solving. I enjoy building practical projects that strengthen my database design, querying, and analytical thinking skills.
 
-Aspiring Data Analyst with a strong interest in SQL, Data Analytics, Business Intelligence, and Data Visualization.
+GitHub: https://github.com/Bhoomi-malviya
 
-GitHub: https://github.com/YOUR_USERNAME
+LinkedIn: https://www.linkedin.com/in/bhoomi-malviya
 
-LinkedIn: https://www.linkedin.com/in/YOUR_PROFILE
-
----
+Thank you for visiting this project. Feedback and suggestions are always welcome!
 
 # Acknowledgement
 
@@ -650,8 +649,4 @@ This project was inspired by a guided SQL tutorial. I completed the original pro
 
 # Thank You
 
-Thank you for taking the time to explore this project.
-
-If you found this repository helpful, feel free to ? star the repository and connect with me on GitHub.
-
-Happy Learning!
+Thank you for visiting this project. Feedback and suggestions are always welcome!
