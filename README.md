@@ -557,6 +557,48 @@ This project demonstrates practical use of the following SQL concepts:
 
 ---
 
+ Power BI Dashboard
+
+After performing SQL-based analysis on the retail sales dataset, an interactive Power BI dashboard was created to visualize key business insights.
+
+🔹 Dashboard Overview
+
+The dashboard includes the following key KPIs:
+
+ Total Revenue: 912K
+ Total Customers: 155
+ Total Orders: 2000
+ Average Order Value: 457
+ Highest Sale: 2000
+ Lowest Sale: 25
+Visualizations Included
+Revenue by Gender (Donut Chart)
+Revenue by Category (Bar Chart)
+Quantity by Category (Pie Chart)
+Monthly Revenue Trend (Line Chart)
+ Key Insights from Dashboard
+Clothing and Electronics contribute the highest revenue share.
+Female customers slightly outperform male customers in revenue contribution.
+Sales show noticeable growth trends in the later months.
+Beauty category has comparatively lower revenue contribution.
+
+ ## 📎 Project Files & Dashboard
+### 📊 Power BI Dashboard File (Desktop)
+👉 [Download PBIX File](https://github.com/Bhoomi-malviya/retail-sales-analysis-sql/blob/main/powerbi1.pbix)
+
+### 📷 Dashboard Preview
+![Retail Sales Dashboard](https://github.com/Bhoomi-malviya/retail-sales-analysis-sql/blob/main/Screenshot%202026-06-30%20153918.png)
+ 
+
+🛠 Tools Used
+SQL (Data Analysis & Querying)
+Power BI (Data Visualization)
+GitHub (Version Control)
+
+ Project Workflow
+SQL Data Cleaning → SQL Analysis → Power BI Dashboard → Insights
+
+
 # Business Insights
 
 The analysis provides valuable business insights, including:
