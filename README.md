@@ -1,4 +1,4 @@
-# Retail Sales Analysis using SQL
+# Retail Sales Analysis using SQL and Power BI
 
 ## Project Overview
 
